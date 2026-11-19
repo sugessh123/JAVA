@@ -1,0 +1,10 @@
+Cardiology -> [Dr. Rao, Dr. Iyer]
+Orthopaedics -> [Dr. Khan, Dr. Thomas, Dr. Nair]
+Paediatrics -> [Dr. Mehta]
+Unknown department -> []
+Booked: patient 123456 with Dr. Rao at 09:00
+Error: Dr. Rao is already booked at 09:00
+Error: patient ID must be 5 to 8 digits
+Error: select a department
+Error: select a doctor
+Booked: patient 654321 with Dr. Rao at 10:00

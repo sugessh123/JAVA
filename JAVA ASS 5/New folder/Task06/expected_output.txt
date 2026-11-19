@@ -1,0 +1,15 @@
+OK        CSA2401001 -> Hackathon
+OK        CSA2401002 -> Hackathon
+OK        CSA2401003 -> Music Night
+DUPLICATE Student CSA2401001 is already registered for Hackathon
+OK        CSA2401001 -> Music Night
+INVALID   Student ID is required
+INVALID   Student ID must be 6-15 letters or digits
+INVALID   Name must be 2-60 letters, spaces or dots
+INVALID   Select a valid event
+All: total=4, pages=2, first page rows=3
+Page 2 rows=1
+Hackathon only: total=2
+id,student_id,student_name,event_name,registered_at
+1,CSA2401001,Asha Rao,Hackathon,now
+2,CSA2401002,Ravi Kumar,Hackathon,now

@@ -1,0 +1,4 @@
+ConverterA: removed=1 added=2
+ConverterB: removed=1 added=2
+ConverterC: removed=3 added=5
+ConverterD: removed=1 added=3

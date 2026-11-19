@@ -1,0 +1,6 @@
+12.00 USD
+11.00 EUR
+1000.00 INR
+12.00 USD
+Invalid amount
+Invalid amount

@@ -1,0 +1,9 @@
+OK    -> RECEIPT: CSA2401001 paid Rs 5000.00
+ERROR -> Register number is required
+ERROR -> Amount must be a number  (cause: NumberFormatException)
+ERROR -> Amount must be greater than zero
+ERROR -> Register number must be 6-15 letters or digits
+ERROR -> Payment could not be saved. Please try again.  (cause: SQLException)
+OK    -> RECEIPT: CSA2401002 paid Rs 2500.50
+Last receipt -> RECEIPT: CSA2401002 paid Rs 2500.50
+Rows saved   -> [CSA2401001:5000.0, CSA2401002:2500.5]

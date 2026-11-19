@@ -1,0 +1,2 @@
+Load all 100,000 rows : 48 ms, about 9 MB extra heap, rows in table = 100000
+Load one page of 50   : 0.42 ms, about 0 MB extra heap, rows in table = 50

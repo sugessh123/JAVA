@@ -1,0 +1,3 @@
+Window 500x320 | results area 484x148 | Search button 75x25 | text field 224x19
+Window 800x500 | results area 784x328 | Search button 75x25 | text field 224x19
+Window 1100x700 | results area 1084x528 | Search button 75x25 | text field 224x19

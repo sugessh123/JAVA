@@ -1,0 +1,16 @@
+import java.awt.*;
+import java.awt.event.*;
+
+public class DrawPad extends Frame {
+    int count = 0;
+    Label status = new Label("Clicks: 0");
+
+    public DrawPad() {
+        add(status, BorderLayout.SOUTH);
+        addMouseListener(new MouseAdapter() {
+            @Override public void mouseclicked(MouseEvent e) {   // @Override added, name still misspelt
+                count++;
+            }
+        });
+    }
+}
